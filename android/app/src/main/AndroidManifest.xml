@@ -43,7 +43,7 @@
         android:banner="@mipmap/ic_launcher"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:label="ReFreezer"
+        android:label="AIMODeezer"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true">
 
