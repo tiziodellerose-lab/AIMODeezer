@@ -1803,7 +1803,7 @@ class _CreditsScreenState extends State<CreditsScreen> {
             subtitle: Text('Source code, report issues there.'.i18n),
             leading: const Icon(Icons.code, color: Colors.green, size: 36.0),
             onTap: () {
-              launchUrlString('https://github.com/DJDoubleD/ReFreezer');
+              launchUrlString('https://github.com/tiziodellerose-lab/AIMODeezer');
             },
           ),
           ListTile(
@@ -1869,7 +1869,7 @@ class _CreditsScreenState extends State<CreditsScreen> {
                             padding:
                                 const EdgeInsets.symmetric(horizontal: 8.0),
                             child: Text(
-                              'The original freezer development team'.i18n,
+                              'AIMODeezer Team'.i18n,
                               textAlign: TextAlign.center,
                               style: const TextStyle(
                                 fontSize: 16.0,

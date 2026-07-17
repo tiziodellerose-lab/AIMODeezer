@@ -97,7 +97,7 @@ class _ReFreezerAppState extends State<ReFreezerApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ReFreezer',
+      title: 'AIMODeezer',
       shortcuts: <ShortcutActivator, Intent>{
         ...WidgetsApp.defaultShortcuts,
         LogicalKeySet(LogicalKeyboardKey.select):

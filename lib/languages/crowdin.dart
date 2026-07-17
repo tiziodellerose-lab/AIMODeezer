@@ -175,7 +175,7 @@ const crowdin = {
     'Go up': 'اذهب للأعلى',
     'Permission denied': 'طلب الاذن مرفوض',
     'Language': 'اللغة',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'تم تغيير اللغة، الرجاء إعادة تشغيل فريزر لتطبيق!',
     'Importing...': 'جار الاستيراد...',
     'Radio': 'راديو',
@@ -256,7 +256,7 @@ const crowdin = {
     'New update available!': 'تحديث جديد متاح!',
     'Current version: ': 'الإصدار الحالي: ',
     'Unsupported platform!': 'منصة غير مدعومة!',
-    'ReFreezer Updates': 'تحديثات فريزر',
+    'AIMODeezer Updates': 'تحديثات فريزر',
     'Update to latest version in the settings.':
         'تحديث لأحدث إصدار في الإعدادات.',
     'Release date': 'تاريخ الاصدار',
@@ -292,7 +292,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'هذا التطبيق غير مصنوع لدعم العديد من الخطوط، يمكن تخريب الواجهة. استخدمه على مسؤوليتك الخاصة!',
     'Enable equalizer': 'تمكين المعادل',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'قد تفعل بعض تطبيقات المعادل للعمل. يتطلب إعادة تشغيل فريزر',
     'Visualizer': 'المؤثرات المرئية',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -312,7 +312,7 @@ const crowdin = {
     'Genre': 'الصنف',
     'Contributors': 'المساهمون',
     'Album art': 'صورة الألبوم',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
         'ديزر غير متوفر في بلدك، قد لا يعمل فريزر بشكل صحيح. الرجاء استخدام VPN',
     'Deezer is unavailable': 'ديزر غير متوفر',
     'Continue': 'استمرار',
@@ -387,8 +387,8 @@ const crowdin = {
         'يجب عليك بدلاً من ذلك ممارسة رياضة الفنانين المفضلين لديك، ونحن ندرك ذلك!',
     'No really, go support your favorite artists instead ;)':
         'لا حقًا، اذهب لدعم الفنانين المفضلين لديك بدلاً من ذلك ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'مطلوب إذن التخزين لتنزيل المحتوى.\nيرجى فتح الإعدادات ومنح إذن التخزين لـ ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'مطلوب إذن التخزين لتنزيل المحتوى.\nيرجى فتح الإعدادات ومنح إذن التخزين لـ AIMODeezer.',
     'Open system settings': 'افتح إعدادات النظام',
     'Application Log': 'سجل التطبيق',
     'Are you sure you want to log out?':
@@ -576,8 +576,8 @@ const crowdin = {
     'Go up': 'Xubir',
     'Permission denied': "Negóse'l permisu",
     'Language': 'Llingua',
-    'Language changed, please restart ReFreezer to apply!':
-        "La llingua camudó, reanicia ReFreezer p'aplicar los cambeos.",
+    'Language changed, please restart AIMODeezer to apply!':
+        "La llingua camudó, reanicia AIMODeezer p'aplicar los cambeos.",
     'Importing...': 'Importando…',
     'Track is not available on Deezer!':
         '¡La pista nun ta disponible en Deezer!',
@@ -658,7 +658,7 @@ const crowdin = {
     'New update available!': '¡Hai un anovamientu disponible!',
     'Current version: ': 'Versión actual: ',
     'Unsupported platform!': '¡La plataforma nun ta sofitada!',
-    'ReFreezer Updates': 'Anovamientos de ReFreezer',
+    'AIMODeezer Updates': 'Anovamientos de AIMODeezer',
     'Update to latest version in the settings.':
         'Anueva a la última versión nos axustes.',
     'Release date': 'Data de llanzamientu',
@@ -692,8 +692,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         "Esta aplicación nun ta fecha pa sofitar munches fontes, puen romper el diseñu. ¡Úsalo baxo'l to riesgu!",
     'Enable equalizer': "Activar l'ecualizador",
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        "Podría activar dalguna aplicación ecualizadora. Rique'l reaniciu de ReFreezer",
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        "Podría activar dalguna aplicación ecualizadora. Rique'l reaniciu de AIMODeezer",
     'Visualizer': 'Visualizador',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         "Amuesa los visualizadores na páxina de la lletra. ALVERTENCIA: ¡Rique'l permisu del micrófonu!",
@@ -709,8 +709,8 @@ const crowdin = {
     'Genre': 'Xéneru',
     'Contributors': 'Collaboradores',
     'Album art': 'Portada del álbum',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer nun ta disponible nel to país y ReFreezer pue nun funcionar afayadizamente. Usa una VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer nun ta disponible nel to país y AIMODeezer pue nun funcionar afayadizamente. Usa una VPN',
     'Deezer is unavailable': 'Deezer nun ta disponible',
     'Email': 'Corréu electrónicu',
     'Missing email or password!':
@@ -914,8 +914,8 @@ const crowdin = {
     'Go up': 'Отиди нагоре',
     'Permission denied': 'Достъпът е отказан',
     'Language': 'Език',
-    'Language changed, please restart ReFreezer to apply!':
-        'Езикът беше променен, моля рестартирайте ReFreezer, за да приложите!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Езикът беше променен, моля рестартирайте AIMODeezer, за да приложите!',
     'Importing...': 'Импортиране...',
     'Radio': 'Радио',
     'Flow': 'Поток',
@@ -999,7 +999,7 @@ const crowdin = {
     'New update available!': 'Налична нова версия!',
     'Current version: ': 'Текуща версия:',
     'Unsupported platform!': 'Неподдържана платформа!',
-    'ReFreezer Updates': 'Актуализации на ReFreezer',
+    'AIMODeezer Updates': 'Актуализации на AIMODeezer',
     'Update to latest version in the settings.':
         'Актуализирайте до последната версия в настройките.',
     'Release date': 'Дата на пускане',
@@ -1036,8 +1036,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Това приложение не поддържа много шрифтове и в последствие могат да се нарушат оформленията на дадени елементи и да се причини препълване на данните. Внимавайте с употребата на тази настройка!',
     'Enable equalizer': 'Включване на еквалайзер',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Може да включи някои приложения за еквалайзер, за да сработи. Необходимо е да рестартирате ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Може да включи някои приложения за еквалайзер, за да сработи. Необходимо е да рестартирате AIMODeezer',
     'Visualizer': 'Визуализатор',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Покажи визуализатора на страницата с текстове на песните. ВНИМАНИЕ: Изисква разрешение за микрофон!',
@@ -1056,8 +1056,8 @@ const crowdin = {
     'Genre': 'Жанр',
     'Contributors': 'Сътрудници',
     'Album art': 'Обложка на албума',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer не е достъпен във вашата държава и в последствие някои функционалности на ReFreezer може да не са използваеми. Моля, ползвайте VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer не е достъпен във вашата държава и в последствие някои функционалности на AIMODeezer може да не са използваеми. Моля, ползвайте VPN',
     'Deezer is unavailable': 'Deezer не е достъпен',
     'Continue': 'Продължаване',
     'Email Login': 'Влизане с е-поща',
@@ -1132,8 +1132,8 @@ const crowdin = {
         'По-скоро трябва да подкрепите любимите си изпълнители, вместо това приложение!',
     'No really, go support your favorite artists instead ;)':
         'Не наистина, вместо това отидете да подкрепите любимите си изпълнители ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'За изтегляне на съдържание е необходимо разрешение за съхранение.\nМоля, отворете настройките и дайте разрешение за съхранение на ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'За изтегляне на съдържание е необходимо разрешение за съхранение.\nМоля, отворете настройките и дайте разрешение за съхранение на AIMODeezer.',
     'Open system settings': 'Отворете системните настройки',
     'Application Log': 'Дневник на приложението',
     'Are you sure you want to log out?':
@@ -1322,8 +1322,8 @@ const crowdin = {
     'Go up': 'Jdi nahoru',
     'Permission denied': 'Povolení odepřeno',
     'Language': 'Jazyk',
-    'Language changed, please restart ReFreezer to apply!':
-        'Jazyk se změnil, pro použití restartujte ReFreezer!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Jazyk se změnil, pro použití restartujte AIMODeezer!',
     'Importing...': 'Import...',
     'Radio': 'Rádio',
     'Flow': 'Flow',
@@ -1407,7 +1407,7 @@ const crowdin = {
     'New update available!': 'K dispozici nová aktualizace!',
     'Current version: ': 'Aktuální verze:',
     'Unsupported platform!': 'Nepodporovaná platforma!',
-    'ReFreezer Updates': 'Aktualizace ReFreezer',
+    'AIMODeezer Updates': 'Aktualizace AIMODeezer',
     'Update to latest version in the settings.':
         'Aktualizujte na nejnovější verzi v nastavení.',
     'Release date': 'Datum vydání',
@@ -1443,8 +1443,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!",
     'Enable equalizer': 'Povolit ekvalizér',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Může umožnit fungování některých aplikací ekvalizéru. Vyžaduje restart ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Může umožnit fungování některých aplikací ekvalizéru. Vyžaduje restart AIMODeezer',
     'Visualizer': 'Vizualizér',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Zobrazit vizualizéry na stránce textů. VAROVÁNÍ: Vyžaduje povolení mikrofonu!',
@@ -1463,8 +1463,8 @@ const crowdin = {
     'Genre': 'Žánr',
     'Contributors': 'Přispěvatelé',
     'Album art': 'Obal alba',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer není ve vaší zemi dostupný, ReFreezer nemusí fungovat správně. Použijte prosím VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer není ve vaší zemi dostupný, AIMODeezer nemusí fungovat správně. Použijte prosím VPN',
     'Deezer is unavailable': 'Deezer není k dispozici',
     'Continue': 'Pokračovat',
     'Email Login': 'Přihlášení e-mailem',
@@ -1537,8 +1537,8 @@ const crowdin = {
         'Místo této aplikace byste měli raději podporovat své oblíbené umělce!',
     'No really, go support your favorite artists instead ;)':
         'Ne vážně, běž podpořit své oblíbené umělce ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Ke stažení obsahu je vyžadováno oprávnění k úložišti.\nOtevřete nastavení a udělte oprávnění úložiště ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Ke stažení obsahu je vyžadováno oprávnění k úložišti.\nOtevřete nastavení a udělte oprávnění úložiště AIMODeezer.',
     'Open system settings': 'Otevřete nastavení systému',
     'Application Log': 'Protokol aplikace',
     'Are you sure you want to log out?': 'Opravdu se chcete odhlásit?',
@@ -1726,8 +1726,8 @@ const crowdin = {
     'Go up': 'Nach oben',
     'Permission denied': 'Zugriff verweigert',
     'Language': 'Sprache',
-    'Language changed, please restart ReFreezer to apply!':
-        'Sprache geändert, bitte starten Sie ReFreezer neu, um die Änderungen zu übernehmen!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Sprache geändert, bitte starten Sie AIMODeezer neu, um die Änderungen zu übernehmen!',
     'Importing...': 'Importiere...',
     'Radio': 'Radio',
     'Flow': 'Flow',
@@ -1810,7 +1810,7 @@ const crowdin = {
     'New update available!': 'Neues Update verfügbar!',
     'Current version: ': 'Aktuelle Version: ',
     'Unsupported platform!': 'Nicht unterstützte Plattform!',
-    'ReFreezer Updates': 'ReFreezer-Updates',
+    'AIMODeezer Updates': 'AIMODeezer-Updates',
     'Update to latest version in the settings.':
         'Aktualisieren Sie auf die neueste Version in den Einstellungen',
     'Release date': 'Veröffentlichungsdatum',
@@ -1846,8 +1846,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Diese App ist nicht für die Unterstützung vieler Schriftarten ausgelegt; diese können Layouts beschädigen und überlaufen. Nutzung auf eigenes Risiko!',
     'Enable equalizer': 'Equalizer aktivieren',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Könnte einige Equalizer-Apps zum Funktionieren bringen. Ein Neustart von ReFreezer ist erforderlich.',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Könnte einige Equalizer-Apps zum Funktionieren bringen. Ein Neustart von AIMODeezer ist erforderlich.',
     'Visualizer': 'Visualisierung',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Visualisierer auf der Songtextseite anzeigen. WARNUNG: Mikrofonberechtigung erforderlich!',
@@ -1866,8 +1866,8 @@ const crowdin = {
     'Genre': 'Genre',
     'Contributors': 'Mitwirkende',
     'Album art': 'Albumcover',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer ist in Ihrem Land nicht verfügbar. ReFreezer funktioniert möglicherweise nicht einwandfrei. Bitte verwenden Sie ein VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer ist in Ihrem Land nicht verfügbar. AIMODeezer funktioniert möglicherweise nicht einwandfrei. Bitte verwenden Sie ein VPN',
     'Deezer is unavailable': 'Deezer ist nicht verfügbar',
     'Continue': 'Weiter',
     'Email Login': 'E-Mail-Anmeldung',
@@ -1941,8 +1941,8 @@ const crowdin = {
         'Sie sollten lieber Ihre Lieblingskünstler unterstützen, statt diese App!',
     'No really, go support your favorite artists instead ;)':
         'Nein, ernsthaft, unterstützen Sie lieber Ihre Lieblingskünstler ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Speicherberechtigung ist erforderlich, um Inhalte herunterzuladen.\n\nBitte öffnen Sie die Einstellungen und gewähren Sie ReFreezer die Speicherberechtigung.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Speicherberechtigung ist erforderlich, um Inhalte herunterzuladen.\n\nBitte öffnen Sie die Einstellungen und gewähren Sie AIMODeezer die Speicherberechtigung.',
     'Open system settings': 'Systemeinstellungen öffnen',
     'Application Log': 'Anwendungsprotokoll',
     'Are you sure you want to log out?':
@@ -2136,8 +2136,8 @@ const crowdin = {
     'Go up': 'Πήγαινε πάνω',
     'Permission denied': 'Η άδεια απορρίφθηκε',
     'Language': 'Γλώσσα',
-    'Language changed, please restart ReFreezer to apply!':
-        'Η γλώσσα άλλαξε, κάντε επανεκκίνηση του ReFreezer για εφαρμογή!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Η γλώσσα άλλαξε, κάντε επανεκκίνηση του AIMODeezer για εφαρμογή!',
     'Importing...': 'Εισαγωγή...',
     'Radio': 'Ραδιόφωνο',
     'Flow': 'Flow',
@@ -2223,7 +2223,7 @@ const crowdin = {
     'New update available!': 'Υπάρχει διαθέσιμη νέα ενημέρωση!',
     'Current version: ': 'Τρέχουσα έκδοση: ',
     'Unsupported platform!': 'Μη υποστηριζόμενη πλατφόρμα!',
-    'ReFreezer Updates': 'Ενημερώσεις του ReFreezer',
+    'AIMODeezer Updates': 'Ενημερώσεις του AIMODeezer',
     'Update to latest version in the settings.':
         'Ενημέρωση στην πιο πρόσφατη έκδοση από τις ρυθμίσεις.',
     'Release date': 'Ημερομηνία κυκλοφορίας',
@@ -2260,8 +2260,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Αυτή η εφαρμογή δεν έχει φτιαχτεί για να υποστηρίζει πολλές γραμματοσειρές, μπορεί να προκαλέσει λάθος διατάξεις και υπερχείλιση. Χρησιμοποιήστε το με δική σας ευθύνη!',
     'Enable equalizer': 'Ενεργοποίηση ισοσταθμιστή',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Μπορεί να επιτρέψει σε κάποιες εφαρμογές ισοσταθμιστή να λειτουργήσουν. Απαιτεί επανεκκίνηση του ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Μπορεί να επιτρέψει σε κάποιες εφαρμογές ισοσταθμιστή να λειτουργήσουν. Απαιτεί επανεκκίνηση του AIMODeezer',
     'Visualizer': 'Οπτικοποιητής',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Εμφάνιση οπτικών εφέ στη σελίδα των στίχων. ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Απαιτείται άδεια μικροφώνου!',
@@ -2280,7 +2280,7 @@ const crowdin = {
     'Genre': 'Είδος',
     'Contributors': 'Συντελεστές',
     'Album art': 'Εξώφυλλο άλμπουμ',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
         'Το Deezer δεν είναι διαθέσιμο στη χώρα σας και μπορεί να μην λειτουργεί σωστά. Παρακαλούμε χρησιμοποιήστε ένα VPN',
     'Deezer is unavailable': 'Το Deezer δεν είναι διαθέσιμο',
     'Continue': 'Συνέχεια',
@@ -2355,8 +2355,8 @@ const crowdin = {
         'Θα πρέπει να υποστηρίξετε τους αγαπημένους σας καλλιτέχνες, αντί αυτής της εφαρμογής!',
     'No really, go support your favorite artists instead ;)':
         'Όχι πραγματικά, πηγαίνετε να υποστηρίξετε τους αγαπημένους σας καλλιτέχνες ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Απαιτείται άδεια αποθήκευσης για τη λήψη περιεχομένου.\nΑνοίξτε τις ρυθμίσεις και παραχωρήστε άδεια αποθήκευσης στο ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Απαιτείται άδεια αποθήκευσης για τη λήψη περιεχομένου.\nΑνοίξτε τις ρυθμίσεις και παραχωρήστε άδεια αποθήκευσης στο AIMODeezer.',
     'Open system settings': 'Ανοίξτε τις ρυθμίσεις συστήματος',
     'Application Log': 'Αρχείο καταγραφής εφαρμογής',
     'Are you sure you want to log out?':
@@ -2547,8 +2547,8 @@ const crowdin = {
     'Go up': 'Subir',
     'Permission denied': 'Permiso denegado',
     'Language': 'Idioma',
-    'Language changed, please restart ReFreezer to apply!':
-        '¡El idioma se cambió, por favor reinicie ReFreezer para aplicarlo!',
+    'Language changed, please restart AIMODeezer to apply!':
+        '¡El idioma se cambió, por favor reinicie AIMODeezer para aplicarlo!',
     'Importing...': 'Importando...',
     'Track is not available on Deezer!':
         '¡La canción no está disponible en Deezer!',
@@ -2628,7 +2628,7 @@ const crowdin = {
     'New update available!': '¡Nueva actualización disponible!',
     'Current version: ': 'Versión actual: ',
     'Unsupported platform!': '¡Plataforma no soportada!',
-    'ReFreezer Updates': 'Actualizaciones de ReFreezer',
+    'AIMODeezer Updates': 'Actualizaciones de AIMODeezer',
     'Update to latest version in the settings.':
         'Actualiza a la última versión en la configuración.',
     'Release date': 'Fecha de lanzamiento',
@@ -2664,8 +2664,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Esta aplicación no está hecha para soportar muchas fuentes, puede romper diseños y desbordarse. ¡Usar bajo tu propio riesgo!',
     'Enable equalizer': 'Activar ecualizador',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Podría habilitar algunas aplicaciones de ecualización para funcionar. Requiere reiniciar ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Podría habilitar algunas aplicaciones de ecualización para funcionar. Requiere reiniciar AIMODeezer',
     'Visualizer': 'Visualizador',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Mostrar visualizadores en la página de letras. ADVERTENCIA: ¡Requiere permiso del micrófono!',
@@ -2681,8 +2681,8 @@ const crowdin = {
     'Genre': 'Género',
     'Contributors': 'Colaboradores',
     'Album art': 'Arte del álbum',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer no está disponible en tu país, ReFreezer puede no funcionar correctamente. Por favor usa una VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer no está disponible en tu país, AIMODeezer puede no funcionar correctamente. Por favor usa una VPN',
     'Deezer is unavailable': 'Deezer no está disponible',
     'Continue': 'Continuar',
     'Email Login': 'Ingreso con Email',
@@ -2753,8 +2753,8 @@ const crowdin = {
         '¡Mejor apoya a tus artistas favoritos en lugar de esta app!',
     'No really, go support your favorite artists instead ;)':
         'No, en serio, mejor apoya a tus artistas favoritos ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Se necesita permiso de almacenamiento para descargar contenido.\nPor favor, abre la configuración y otorga permiso de almacenamiento a ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Se necesita permiso de almacenamiento para descargar contenido.\nPor favor, abre la configuración y otorga permiso de almacenamiento a AIMODeezer.',
     'Open system settings': 'Abrir configuración del sistema',
     'Application Log': 'Registro de la aplicación',
     'Are you sure you want to log out?':
@@ -2943,7 +2943,7 @@ const crowdin = {
     'Go up': 'رفتن به بالا',
     'Permission denied': 'اجازه داده نشد',
     'Language': 'زبان',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'زبان عوض شد، لطفاً فریزر را ریستارت کنید',
     'Importing...': 'وارد کردن...',
     'Radio': 'رادیو',
@@ -3026,7 +3026,7 @@ const crowdin = {
     'New update available!': 'به روز رسانی جدید در دسترس است',
     'Current version: ': 'نسخه ی فعلی : ',
     'Unsupported platform!': 'پلتفرم پشتیبانی نشده',
-    'ReFreezer Updates': 'به روز رسانی های فریزر',
+    'AIMODeezer Updates': 'به روز رسانی های فریزر',
     'Update to latest version in the settings.':
         'از تنظیمات به روز رسانی کنید.',
     'Release date': 'زمان عرضه',
@@ -3062,7 +3062,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'این برنامه برای پشتیبانی از فونت های زیاد ساخته نشده است، ممکن است باعث به هم ریختن چینش و صفحات شود. مسئولیت بر عهده خودتان است!',
     'Enable equalizer': 'روشن کردن اکولایزر',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'باعث فعال شدن برخی از برنامه های اکولایزر میشود. نیازمند ریستارت کردن است',
     'Visualizer': 'جلوه های تصویری',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -3082,7 +3082,7 @@ const crowdin = {
     'Genre': 'ژانر',
     'Contributors': 'مشارکت کنندگان',
     'Album art': 'تصویر آلبوم',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
         'دیزر در کشور شما قابل دسترس نیست، ممکن است فریزر به درستی کار نکند، لطفاً از وی پی ان استفاده کنید',
     'Deezer is unavailable': 'دیزر در دسترس نیست',
     'Continue': 'ادامه',
@@ -3156,7 +3156,7 @@ const crowdin = {
         'به جای استفاده از این برنامه هنرمند مورد علاقه تان را حمایت کنید!',
     'No really, go support your favorite artists instead ;)':
         'جدا از این برنامه استفاده نکنین :)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
         'مجوز استفاده از فضای گوشی برای بارگیری نیاز است.\nلطفاً وارد تنظیمات برنامه شده و اجازه را به ریفریزر بدهید.',
     'Open system settings': 'ورود به تنظیمات دستگاه',
     'Application Log': 'سوابق استفاده برنامه',
@@ -3345,7 +3345,7 @@ const crowdin = {
     'Go up': 'Pumunta paitaas',
     'Permission denied': 'Hindi pinapayagan',
     'Language': 'Wika',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'Pinalitan ang wika, paki-restart ang Deezer para mai-apply!',
     'Importing...': 'Ini-import...',
     'Radio': 'Radyo',
@@ -3431,7 +3431,7 @@ const crowdin = {
     'New update available!': 'May bagong update na!',
     'Current version: ': 'Kasalukuyang bersyon: ',
     'Unsupported platform!': 'Hindi suportadong plataporma!',
-    'ReFreezer Updates': 'Mga update ng ReFreezer',
+    'AIMODeezer Updates': 'Mga update ng AIMODeezer',
     'Update to latest version in the settings.':
         'Mag-update sa pinakabagong bersyon sa settings.',
     'Release date': 'Petsa ng paglabas',
@@ -3451,12 +3451,12 @@ const crowdin = {
     'Might have impact on performance': 'Baka makaapekto sa performance',
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Ang app na ito ay hindi ginawa para suportahan ang maraming mga font. Maaari itong makasira ng mga layout at mag-overflow. Gamitin sa sarili mong peligro!',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Baka mapagana nito yung ibang equalizer app. Kailangan i-restart ang ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Baka mapagana nito yung ibang equalizer app. Kailangan i-restart ang AIMODeezer',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Ipakita ang visualizers sa lyrics page. BABALA: Kailangan ng microphone permission!',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        '\"Hindi available ang Deezer sa bansa mo, baka hindi gumana nang maayos ang ReFreezer. Gumamit ka po ng VPN.\"',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        '\"Hindi available ang Deezer sa bansa mo, baka hindi gumana nang maayos ang AIMODeezer. Gumamit ka po ng VPN.\"',
     'Deezer is unavailable': '\"Hindi available ang Deezer.\"',
     'Missing email or password!': 'Kulang ang email o password!',
     'Error logging in using email, please check your credentials.\nError:':
@@ -3655,8 +3655,8 @@ const crowdin = {
     'Go up': 'Remonter',
     'Permission denied': 'Autorisation refusée',
     'Language': 'Langue',
-    'Language changed, please restart ReFreezer to apply!':
-        'Langue modifiée. Veuillez redémarrer ReFreezer pour que les changements prennent effet !',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Langue modifiée. Veuillez redémarrer AIMODeezer pour que les changements prennent effet !',
     'Importing...': 'Importation...',
     'Radio': 'Radio',
     'Flow': 'Flow',
@@ -3741,7 +3741,7 @@ const crowdin = {
     'New update available!': 'Une nouvelle mise à jour est disponible !',
     'Current version: ': 'Version actuelle :',
     'Unsupported platform!': "Système d'exploitation non pris en charge !",
-    'ReFreezer Updates': 'Mises à jour de ReFreezer',
+    'AIMODeezer Updates': 'Mises à jour de AIMODeezer',
     'Update to latest version in the settings.':
         'Mettez à jour vers la dernière version dans les paramètres.',
     'Release date': 'Date de mise en ligne',
@@ -3778,8 +3778,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         "Cette application n'est pas conçue pour prendre en charge autant de polices. Des problèmes de mise en page et de débordement peuvent survenir. Utilisez à vos risques et périls !",
     'Enable equalizer': "Activer l'égaliseur",
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        "Peut permettre le support de certaines applications d'égalisation sonore. Nécessite un redémarrage de ReFreezer",
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        "Peut permettre le support de certaines applications d'égalisation sonore. Nécessite un redémarrage de AIMODeezer",
     'Visualizer': 'Visualisation',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         "Afficher les visualisations sur la page des paroles. ATTENTION : Nécessite l'autorisation d'accès au microphone !",
@@ -3798,8 +3798,8 @@ const crowdin = {
     'Genre': 'Genre',
     'Contributors': 'Contributeurs',
     'Album art': "Pochette d'album",
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        "Deezer n'est pas disponible dans votre pays, ReFreezer pourrait ne pas fonctionner correctement. Veuillez utiliser un VPN.",
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        "Deezer n'est pas disponible dans votre pays, AIMODeezer pourrait ne pas fonctionner correctement. Veuillez utiliser un VPN.",
     'Deezer is unavailable': "Freezer n'est pas disponible",
     'Continue': 'Continuer',
     'Email Login': 'Connexion par email',
@@ -3876,7 +3876,7 @@ const crowdin = {
         'Vous devriez plutôt soutenir vos artistes favoris, au lieu de cette application !',
     'No really, go support your favorite artists instead ;)':
         'Non vraiment, allez soutenir vos artistes préférés à la place ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
         "L'autorisation de stockage est nécessaire pour télécharger du contenu.\nVeuillez ouvrir les paramètres et accorder la permission de stockage à ReFeezer.",
     'Open system settings': 'Ouvrir les paramètres système',
     'Application Log': "Log de l'application",
@@ -4068,8 +4068,8 @@ const crowdin = {
     'Go up': 'עלה למעלה',
     'Permission denied': 'הרשאה נדחתה',
     'Language': 'שפה',
-    'Language changed, please restart ReFreezer to apply!':
-        'שפה שונתה, בבקשה הפעל מחדש את ReFreezer כדי להחיל!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'שפה שונתה, בבקשה הפעל מחדש את AIMODeezer כדי להחיל!',
     'Importing...': 'מייבא...',
     'Radio': 'רדיו',
     'Track is not available on Deezer!': 'שיר לא קיים בדיזר!',
@@ -4147,7 +4147,7 @@ const crowdin = {
     'New update available!': 'גרסה חדשה זמינה!',
     'Current version: ': 'גירסה נוכחית: ',
     'Unsupported platform!': 'פלטפורמה זו אינה נתמכת!',
-    'ReFreezer Updates': 'עדכוני ReFreezer',
+    'AIMODeezer Updates': 'עדכוני AIMODeezer',
     'Update to latest version in the settings.':
         'עדכנו לגרסה האחרונה דרך ההגדרות.',
     'Release date': 'תאריך שחרור',
@@ -4181,8 +4181,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'האפליקציה לא בנויה לתמוך בגופנים רבים. השימוש באחריותך בלבד!',
     'Enable equalizer': 'הפעל אקולייזר',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'עשוי לאפשר לכמה אפליקציות אקולייזר לעבוד. מצריך הפעלה מחדש של ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'עשוי לאפשר לכמה אפליקציות אקולייזר לעבוד. מצריך הפעלה מחדש של AIMODeezer',
     'Visualizer': 'הנפשה',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'הצגת הנפשות על מסך המילים. אזהרה: מצריך גישה למיקרופון!',
@@ -4198,8 +4198,8 @@ const crowdin = {
     'Genre': "ז'אנר",
     'Contributors': 'תורמים',
     'Album art': 'עטיפת אלבום',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer לא זמין במדינתך, לכן ReFreezer כנראה לא יפעל כראוי. אנא השתמש ב־VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer לא זמין במדינתך, לכן AIMODeezer כנראה לא יפעל כראוי. אנא השתמש ב־VPN',
     'Deezer is unavailable': 'Deezer לא זמין',
     'Continue': 'המשך',
     'Email Login': 'כניסה באמצעות דוא\"ל',
@@ -4442,7 +4442,7 @@ const crowdin = {
     'Go up': 'ऊपर जाना',
     'Permission denied': 'अनुमति नहीं मिली',
     'Language': 'भाषा',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'भाषा बदली गई, कृपया आवेदन करने के लिए फ्रीजर को फिर से शुरू करें!',
     'Importing...': 'आयात किया जा रहा है...',
     'Radio': 'रेडियो',
@@ -4526,7 +4526,7 @@ const crowdin = {
     'New update available!': 'नई सूचना उपलब्ध है!',
     'Current version: ': 'वर्तमान संस्करण: ',
     'Unsupported platform!': 'असमर्थित मंच!',
-    'ReFreezer Updates': 'फ्रीजर अपडेट',
+    'AIMODeezer Updates': 'फ्रीजर अपडेट',
     'Update to latest version in the settings.':
         'सेटिंग्स में नवीनतम संस्करण में अपडेट करें।',
     'Release date': 'रिलीज़ की तारीख',
@@ -4562,7 +4562,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'यह ऐप कई फोंट का समर्थन करने के लिए नहीं बनाया गया है, यह लेआउट और अतिप्रवाह को तोड़ सकता है। अपने जोखिम पार इस्तेमाल करें!',
     'Enable equalizer': 'तुल्यकारक सक्षम करें',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'काम करने के लिए कुछ इक्वलाइज़र ऐप्स को सक्षम कर सकते हैं। फ्रीजर के पुनरारंभ की आवश्यकता है',
     'Visualizer': 'विजुआलाइज़र',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -4582,7 +4582,7 @@ const crowdin = {
     'Genre': 'शैली',
     'Contributors': 'योगदानकर्ताओं',
     'Album art': 'एलबम कला',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
         'आपके देश में डीज़र उपलब्ध नहीं है, हो सकता है कि फ्रीजर ठीक से काम न करे। कृपया एक वीपीएन का उपयोग करें',
     'Deezer is unavailable': 'डीज़र अनुपलब्ध है',
     'Continue': 'जारी रखें',
@@ -4656,7 +4656,7 @@ const crowdin = {
         'इस ऐप से अच्छा तो, आपको अपने पसंदीदा कलाकारों का समर्थन करना चाहिए!',
     'No really, go support your favorite artists instead ;)':
         'नहीं सच में, जाकर अपने पसंदीदा कलाकारों का समर्थन कीजिए ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
         'डाउनलोड करने के लिए स्टोरेज की अनुमति चाहिए। कृप्या सेटिंग्स में जाकर रिफ़्रीज़र को अनुमति प्रदान करें।',
     'Open system settings': 'सिस्टम सेटिंग्स खोलें',
     'Application Log': 'आदवेदन संस्करण',
@@ -4845,8 +4845,8 @@ const crowdin = {
     'Go up': 'Idi gore',
     'Permission denied': 'Dopuštenje odbijeno',
     'Language': 'Jezik',
-    'Language changed, please restart ReFreezer to apply!':
-        'Jezik je promijenjen, molimo vas da ponovno pokrenete ReFreezer kako bi se promjene primijenile!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Jezik je promijenjen, molimo vas da ponovno pokrenete AIMODeezer kako bi se promjene primijenile!',
     'Importing...': 'Uvoz...',
     'Radio': 'Radio',
     'Flow': 'Flow',
@@ -4928,7 +4928,7 @@ const crowdin = {
     'New update available!': 'Dostupno je novo ažuriranje!',
     'Current version: ': 'Trenutna verzija: ',
     'Unsupported platform!': 'Nepodržana platforma!',
-    'ReFreezer Updates': 'ReFreezer ažuriranja',
+    'AIMODeezer Updates': 'AIMODeezer ažuriranja',
     'Update to latest version in the settings.':
         'Ažurirajte na posljednju verziju u postavkama.',
     'Release date': 'Datum izdavanja',
@@ -4966,8 +4966,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Ova aplikacija nije napravljena da podržava mnogo fontova. Korištenjem različitih fontova može se prelomiti raspored i prijelom teksta. Koristite na vlastiti rizik!',
     'Enable equalizer': 'Omogući ekvilajzer',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Moglo bi omogućiti nekim ekvilajzer aplikacijama da ispravno rade. Zahtijeva restart ReFreezera',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Moglo bi omogućiti nekim ekvilajzer aplikacijama da ispravno rade. Zahtijeva restart AIMODeezera',
     'Visualizer': 'Vizualizator',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Pokaži vizualizacije na stranici s tekstovima pjesme. UPOZORENJE: Zahtijeva dopuštenje mikrofona!',
@@ -4986,8 +4986,8 @@ const crowdin = {
     'Genre': 'Žanr',
     'Contributors': 'Suradnici',
     'Album art': 'Omot albuma',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer nije dostupan u vašoj zemlji, ReFreezer možda neće pravilno funkcionirati. Molimo koristite VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer nije dostupan u vašoj zemlji, AIMODeezer možda neće pravilno funkcionirati. Molimo koristite VPN',
     'Deezer is unavailable': 'Deezer je nedostupan',
     'Continue': 'Nastavi',
     'Email Login': 'Email prijava',
@@ -5063,8 +5063,8 @@ const crowdin = {
         'Radije biste trebali podržati svoje omiljene izvođače, umjesto ove aplikacije!',
     'No really, go support your favorite artists instead ;)':
         'Ne stvarno, umjesto toga podržite svoje omiljene izvođače ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Za preuzimanje sadržaja potrebna je dozvola za pohranu.\nMolimo otvorite postavke i dopustite ReFreezeru dozvolu za pohranu.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Za preuzimanje sadržaja potrebna je dozvola za pohranu.\nMolimo otvorite postavke i dopustite AIMODeezeru dozvolu za pohranu.',
     'Open system settings': 'Otvorite postavke sustava',
     'Application Log': 'Dnevnik aplikacije',
     'Are you sure you want to log out?':
@@ -5252,7 +5252,7 @@ const crowdin = {
     'Go up': 'Menjen fel',
     'Permission denied': 'Hozzáférés megtagadva',
     'Language': 'Nyelv',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'A nyelv megváltozott, kérem indítsa újra a Freezer-t az alkalmazáshoz!',
     'Importing...': 'Importálás...',
     'Radio': 'Rádió',
@@ -5334,7 +5334,7 @@ const crowdin = {
     'New update available!': 'Új frissítés elérhető!',
     'Current version: ': 'Jelenlegi verzió: ',
     'Unsupported platform!': 'Nem támogatott eszköz!',
-    'ReFreezer Updates': 'ReFreezer frissítések',
+    'AIMODeezer Updates': 'AIMODeezer frissítések',
     'Update to latest version in the settings.':
         'Frissítés a legújabb verzióra a beállításokban.',
     'Release date': 'Kiadás dátuma',
@@ -5369,7 +5369,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Ez az app nem támogat sok betűtípust, így felboríthatja a kinézetet. Csak kizárólag saját felelősségre!',
     'Enable equalizer': 'Equalézer engedélyezése',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'Külső equalézer appok támogatása. Újraindítás szükséges',
     'Visualizer': 'Vizualizáló',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -5385,8 +5385,8 @@ const crowdin = {
     'Genre': 'Műfaj',
     'Contributors': 'Közreműködők',
     'Album art': 'Borítókép',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'A Deezer nem elérhető az Ön országában, ezért a ReFreezer nem biztos hogy működni fog. Kérjük használjon VPN-t.',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'A Deezer nem elérhető az Ön országában, ezért a AIMODeezer nem biztos hogy működni fog. Kérjük használjon VPN-t.',
     'Deezer is unavailable': 'A Deezer nem elérhető',
     'Continue': 'Tovább',
     'Email Login': 'Emailes belépés',
@@ -5607,7 +5607,7 @@ const crowdin = {
     'Go up': 'Ke Atas',
     'Permission denied': 'Akses dilarang',
     'Language': 'Bahasa',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'Bahasa diganti, Mulai ulang aplikasi untuk menerapkannya!',
     'Importing...': 'Mengimpor...',
     'Radio': 'Radio',
@@ -5690,7 +5690,7 @@ const crowdin = {
     'New update available!': 'Pembaruan tersedia!',
     'Current version: ': 'Versi saat ini: ',
     'Unsupported platform!': 'Platform Tidak Didukung!',
-    'ReFreezer Updates': 'Pembaruan ReFreezer',
+    'AIMODeezer Updates': 'Pembaruan AIMODeezer',
     'Update to latest version in the settings.':
         'Perbarui ke versi terakhir di pengaturan.',
     'Release date': 'Tanggal rilis',
@@ -5727,8 +5727,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Aplikasi ini tidak dibuat untuk mendukung banyak font, ini dapat merusak tata letak dan tampilan. Gunakan dengan resiko anda sendiri!',
     'Enable equalizer': 'Aktifkan equalizer',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Mungkin mengaktifkan beberapa aplikasi equalizer untuk bekerja. Membutuhkan restart ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Mungkin mengaktifkan beberapa aplikasi equalizer untuk bekerja. Membutuhkan restart AIMODeezer',
     'Visualizer': 'Visualisasi',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Tampilkan visualisasi di halaman lirik. PERINGATAN: Dibutuhkan ijin microphone!',
@@ -5747,8 +5747,8 @@ const crowdin = {
     'Genre': 'Aliran',
     'Contributors': 'Kontributor',
     'Album art': 'Gambar album',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer tidak tersedia di negara Anda, ReFreezer mungkin tidak berfungsi dengan baik. Mohon gunakan VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer tidak tersedia di negara Anda, AIMODeezer mungkin tidak berfungsi dengan baik. Mohon gunakan VPN',
     'Deezer is unavailable': 'Deezer tidak tersedia',
     'Continue': 'Lanjutkan',
     'Email Login': 'Email Masuk',
@@ -5983,8 +5983,8 @@ const crowdin = {
     'Go up': 'Vai su',
     'Permission denied': 'Permesso negato',
     'Language': 'Lingua',
-    'Language changed, please restart ReFreezer to apply!':
-        'Lingua cambiata, riavvia ReFreezer per applicare la modifica!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Lingua cambiata, riavvia AIMODeezer per applicare la modifica!',
     'Importing...': 'Importando...',
     'Radio': 'Radio ',
     'Flow': 'Flow',
@@ -6068,7 +6068,7 @@ const crowdin = {
     'New update available!': 'Nuovo aggiornamento disponibile!',
     'Current version: ': 'Versione attuale: ',
     'Unsupported platform!': 'Piattaforma non supportata!',
-    'ReFreezer Updates': 'Aggiornamenti ReFreezer',
+    'AIMODeezer Updates': 'Aggiornamenti AIMODeezer',
     'Update to latest version in the settings.':
         "Aggiorna all'ultima versione nelle impostazioni.",
     'Release date': 'Data di rilascio',
@@ -6105,8 +6105,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Questa app non è progettata per supportare molti caratteri, potrebbero smarginare e corrompere il layout. Usarli a proprio rischio e pericolo!',
     'Enable equalizer': 'Abilita equalizzatore',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Potrebbe abilitare il funzionamento di alcune app di equalizzazione. Richiede il riavvio di ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Potrebbe abilitare il funzionamento di alcune app di equalizzazione. Richiede il riavvio di AIMODeezer',
     'Visualizer': 'Visualizzatore',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         "Mostra i visualizzatori nella pagina dei testi. ATTENZIONE: Richiede l'autorizzazione del microfono!",
@@ -6125,8 +6125,8 @@ const crowdin = {
     'Genre': 'Genere',
     'Contributors': 'Collaboratori',
     'Album art': 'Copertina album',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer non è disponibile nel tuo paese, ReFreezer potrebbe non funzionare correttamente. Utilizza una VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer non è disponibile nel tuo paese, AIMODeezer potrebbe non funzionare correttamente. Utilizza una VPN',
     'Deezer is unavailable': 'Deezer non è disponibile',
     'Continue': 'Continua',
     'Email Login': 'Accesso via e-mail',
@@ -6200,8 +6200,8 @@ const crowdin = {
         'Dovresti supportare i tuoi artisti preferiti, invece di donare per questa app!',
     'No really, go support your favorite artists instead ;)':
         'No davvero, vai a supportare i tuoi artisti preferiti ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        "Per scaricare i contenuti è necessaria l'autorizzazione di archiviazione.\nApri le impostazioni e concedi l'autorizzazione di archiviazione a ReFreezer.",
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        "Per scaricare i contenuti è necessaria l'autorizzazione di archiviazione.\nApri le impostazioni e concedi l'autorizzazione di archiviazione a AIMODeezer.",
     'Open system settings': 'Apri le impostazioni di sistema',
     'Application Log': "Log dell'applicazione",
     'Are you sure you want to log out?': 'Sei sicuro di voler uscire?',
@@ -6383,7 +6383,7 @@ const crowdin = {
     'Go up': '위로 이동',
     'Permission denied': '권한이 거부되었습니다.',
     'Language': '언어',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         '언어가 변경되었습니다. 적용하려면 Freezer를 다시 시작하세요!',
     'Importing...': '…\$가져 오는 중',
     'Radio': '라디오',
@@ -6461,7 +6461,7 @@ const crowdin = {
     'New update available!': '사용가능한 업데이트가 있습니다.',
     'Current version: ': '현재 버전: ',
     'Unsupported platform!': '지원되지 않는 플랫폼',
-    'ReFreezer Updates': 'ReFreezer 업데이트',
+    'AIMODeezer Updates': 'AIMODeezer 업데이트',
     'Update to latest version in the settings.': '설정에서 최신버전으로 업데이트 하십시오.',
     'Release date': '출시일',
     'Shows': '팟캐스트',
@@ -6657,8 +6657,8 @@ const crowdin = {
     'Go up': 'Omhoog gaan',
     'Permission denied': 'Toegang geweigerd',
     'Language': 'Taal',
-    'Language changed, please restart ReFreezer to apply!':
-        'Taal veranderd, herstart ReFreezer om het toe te passen!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Taal veranderd, herstart AIMODeezer om het toe te passen!',
     'Importing...': 'Bezig met importeren...',
     'Track is not available on Deezer!':
         'Nummer is niet beschikbaar op Deezer!',
@@ -6769,8 +6769,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Deze app is niet gemaakt voor het ondersteunen van veel lettertypes, het kan de lay-outs en overflow beïnvloeden. Gebruik op eigen risico!',
     'Enable equalizer': 'Equalizer inschakelen',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Kan wellicht sommige equalizer apps laten werken. Vereist het herstarten van ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Kan wellicht sommige equalizer apps laten werken. Vereist het herstarten van AIMODeezer',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Toon visualizers op de songtekstpagina. WAARSCHUWING: Vereist toegang tot microfoon!',
     'Track number': 'Liednummer',
@@ -6781,8 +6781,8 @@ const crowdin = {
     'Unsynchronized lyrics': 'Niet-gesynchroniseerde songteksten',
     'Contributors': 'Bijdragers',
     'Album art': 'Album afbeelding',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer is niet beschikbaar in jouw land, ReFreezer werkt mogelijk niet correct. Gebruik een VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer is niet beschikbaar in jouw land, AIMODeezer werkt mogelijk niet correct. Gebruik een VPN',
     'Deezer is unavailable': 'Deezer is niet beschikbaar',
     'Continue': 'Ga door',
     'Email Login': 'E-mail login',
@@ -6842,8 +6842,8 @@ const crowdin = {
         'U ondersteunt beter uw favoriete artiesten in de plaats van deze app!',
     'No really, go support your favorite artists instead ;)':
         'Nee echt, ga uw favoriete artiesten ondersteunen ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Opslag machtiging is vereist om inhoud te downloaden.\nOpen a.u.b. instellingen en geef ReFreezer opslag machtiging.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Opslag machtiging is vereist om inhoud te downloaden.\nOpen a.u.b. instellingen en geef AIMODeezer opslag machtiging.',
     'Open system settings': 'Open systeeminstellingen',
     'Application Log': 'Applicatie Logboek',
     'Are you sure you want to log out?': 'Weet u zeker dat u wilt uitloggen?',
@@ -7032,8 +7032,8 @@ const crowdin = {
     'Go up': 'Idź do góry',
     'Permission denied': 'Odmowa uprawnień',
     'Language': 'Język',
-    'Language changed, please restart ReFreezer to apply!':
-        'Zmieniono język, uruchom ponownie ReFreezer aby zastosować!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Zmieniono język, uruchom ponownie AIMODeezer aby zastosować!',
     'Importing...': 'Importowanie...',
     'Radio': 'Radio',
     'Flow': 'Flow',
@@ -7115,7 +7115,7 @@ const crowdin = {
     'New update available!': 'Dostępna jest nowa aktualizacja!',
     'Current version: ': 'Zainstalowana wersja: ',
     'Unsupported platform!': 'Nieobsługiwana platforma!',
-    'ReFreezer Updates': 'Aktualizacje ReFreezer',
+    'AIMODeezer Updates': 'Aktualizacje AIMODeezer',
     'Update to latest version in the settings.':
         'Zaktualizuj do najnowszej wersji w ustawieniach.',
     'Release date': 'Data wydania',
@@ -7151,8 +7151,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Ta aplikacja nie jest stworzona do obsługi wielu czcionek, może zniszczyć układ i spowodować przepełnienie. Używaj na własne ryzyko!',
     'Enable equalizer': 'Włącz korektor dźwięku',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Może sprawić, że niektóre aplikacje do korekty dźwięku zaczną działać. Wymaga ponownego uruchomienia ReFreezera',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Może sprawić, że niektóre aplikacje do korekty dźwięku zaczną działać. Wymaga ponownego uruchomienia AIMODeezera',
     'Visualizer': 'Wizualizator',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Pokaż wizualizatorów na stronie tekstowej. UWAGA: Wymaga uprawnienia mikrofonu!',
@@ -7171,8 +7171,8 @@ const crowdin = {
     'Genre': 'Gatunek',
     'Contributors': 'Współautorzy',
     'Album art': 'Okładka albumu',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer nie jest dostępny w twoim kraju, ReFreezer może nie działać prawidłowo. Użyj VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer nie jest dostępny w twoim kraju, AIMODeezer może nie działać prawidłowo. Użyj VPN',
     'Deezer is unavailable': 'Deezer jest niedostępny',
     'Continue': 'Kontynuuj',
     'Email Login': 'Logowanie przez e-mail',
@@ -7247,8 +7247,8 @@ const crowdin = {
         'Powinieneś raczej wesprzeć swoich ulubionych artystów, zamiast tej aplikacji!',
     'No really, go support your favorite artists instead ;)':
         'Nie, naprawdę proszę o wsparcie dla Twoich ulubionych artystów ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Do pobrania treści wymagane jest uprawnienie do pamięci.\nProszę otworzyć ustawienia i przyznać ReFreezerowi uprawnienia do pamięci.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Do pobrania treści wymagane jest uprawnienie do pamięci.\nProszę otworzyć ustawienia i przyznać AIMODeezerowi uprawnienia do pamięci.',
     'Open system settings': 'Otwórz Ustawienia systemu',
     'Application Log': 'Logi aplikacji',
     'Are you sure you want to log out?': 'Czy na pewno chcesz się wylogować?',
@@ -7436,8 +7436,8 @@ const crowdin = {
     'Go up': 'Ir para cima',
     'Permission denied': 'Permissão negada',
     'Language': 'Linguagem',
-    'Language changed, please restart ReFreezer to apply!':
-        'Idioma alterado, reinicie o ReFreezer para aplicar!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Idioma alterado, reinicie o AIMODeezer para aplicar!',
     'Importing...': 'Importando...',
     'Radio': 'Rádio',
     'Flow': 'Flow',
@@ -7520,7 +7520,7 @@ const crowdin = {
     'New update available!': 'Nova atualização disponível!',
     'Current version: ': 'Versão atual: ',
     'Unsupported platform!': 'Plataforma não suportada!',
-    'ReFreezer Updates': 'Atualizações do ReFreezer',
+    'AIMODeezer Updates': 'Atualizações do AIMODeezer',
     'Update to latest version in the settings.':
         'Atualize para a versão mais recente nas configurações.',
     'Release date': 'Data de lançamento',
@@ -7556,8 +7556,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Este app não é feito para suportar muitas fontes, ele pode quebrar layouts e transbordar. Use por sua conta e risco!',
     'Enable equalizer': 'Ativar equalizador',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Pode ativar alguns apps de equalização para funcionar. Requer reinicialização do ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Pode ativar alguns apps de equalização para funcionar. Requer reinicialização do AIMODeezer',
     'Visualizer': 'Visualizador',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Mostrar visualizador na página da letra. AVISO: Requer permissão de microfone!',
@@ -7576,8 +7576,8 @@ const crowdin = {
     'Genre': 'Gênero',
     'Contributors': 'Colaboradores',
     'Album art': 'Arte do álbum',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'O Deezer está indisponível no seu país, o ReFreezer pode não funcionar corretamente. Por favor, utilize uma VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'O Deezer está indisponível no seu país, o AIMODeezer pode não funcionar corretamente. Por favor, utilize uma VPN',
     'Deezer is unavailable': 'Deezer está indisponível',
     'Continue': 'Continuar',
     'Email Login': 'Login com e-mail',
@@ -7651,8 +7651,8 @@ const crowdin = {
         'Você deveria apoiar seus artistas favoritos, em vez deste aplicativo!',
     'No really, go support your favorite artists instead ;)':
         'É sério, vá apoiar seus artistas favoritos ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'É necessário acesso ao armazenamento para fazer downloads.\nPor favor, abra as configurações e conceda a permissão de armazenamento para o ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'É necessário acesso ao armazenamento para fazer downloads.\nPor favor, abra as configurações e conceda a permissão de armazenamento para o AIMODeezer.',
     'Open system settings': 'Abrir configurações do sistema',
     'Application Log': 'Registros do Aplicativo',
     'Are you sure you want to log out?': 'Tem certeza de que deseja sair?',
@@ -7843,8 +7843,8 @@ const crowdin = {
     'Go up': 'Du-te sus',
     'Permission denied': 'Permisie refuzată',
     'Language': 'Limbă',
-    'Language changed, please restart ReFreezer to apply!':
-        'Limba a fost schimbată, restart-ați ReFreezer pentru a aplica schimbarea!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Limba a fost schimbată, restart-ați AIMODeezer pentru a aplica schimbarea!',
     'Importing...': 'Importând...',
     'Radio': 'Radio',
     'Flow': 'Fluxuri',
@@ -7927,7 +7927,7 @@ const crowdin = {
     'New update available!': 'O nouă actualizare disponibilă!',
     'Current version: ': 'Versiunea curentă: ',
     'Unsupported platform!': 'Platformă neacceptată!',
-    'ReFreezer Updates': 'Actualizări ReFreezer',
+    'AIMODeezer Updates': 'Actualizări AIMODeezer',
     'Update to latest version in the settings.':
         'Actualizează la cea mai recentă versiune din setări.',
     'Release date': 'Data lansării',
@@ -7964,7 +7964,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Această aplicație nu a fost creată să suporte multe fonturi, s-ar putea să iasă din limitele meniului. Utilizați pe propriul risc!',
     'Enable equalizer': 'Activează egalizatorul',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'Porniți niște aplicații de egalizare ca să funcționeze. Necesită repornirea aplicației',
     'Visualizer': 'Vizualizator',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -7984,8 +7984,8 @@ const crowdin = {
     'Genre': 'Genul',
     'Contributors': 'Contribuitori',
     'Album art': 'Coperta albumului',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer nu este disponibil în țara voastră, e posibil ca ReFreezer să nu funcționeze corect. Vă rugăm să utilizați un VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer nu este disponibil în țara voastră, e posibil ca AIMODeezer să nu funcționeze corect. Vă rugăm să utilizați un VPN',
     'Deezer is unavailable': 'Deezer nu este disponibil',
     'Continue': 'Continuă',
     'Email Login': 'Autentificare prin email',
@@ -8060,8 +8060,8 @@ const crowdin = {
         'Ar trebui mai degrabă să vă susțineți artiștii preferați, în loc de această aplicație!',
     'No really, go support your favorite artists instead ;)':
         'Nu chiar, susține-ți artiștii preferați ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        'Este necesară permisiunea de stocare pentru a descărca conținut.\nDeschideți setările și acordați permisiunea de stocare pentru ReFreezer.',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        'Este necesară permisiunea de stocare pentru a descărca conținut.\nDeschideți setările și acordați permisiunea de stocare pentru AIMODeezer.',
     'Open system settings': 'Deschideți setările sistemului',
     'Application Log': 'Jurnalul de aplicații',
     'Are you sure you want to log out?':
@@ -8250,8 +8250,8 @@ const crowdin = {
     'Go up': 'На уровень вверх',
     'Permission denied': 'Доступ запрещен',
     'Language': 'Язык',
-    'Language changed, please restart ReFreezer to apply!':
-        'Язык изменен, перезапустите приложение ReFreezer для применения!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Язык изменен, перезапустите приложение AIMODeezer для применения!',
     'Importing...': 'Импортирование...',
     'Radio': 'Радио',
     'Flow': 'Поток',
@@ -8333,7 +8333,7 @@ const crowdin = {
     'New update available!': 'Доступно обновление!',
     'Current version: ': 'Текущая версия: ',
     'Unsupported platform!': 'Неподдерживаемая платформа!',
-    'ReFreezer Updates': 'Обновления ReFreezer',
+    'AIMODeezer Updates': 'Обновления AIMODeezer',
     'Update to latest version in the settings.':
         'Обновитесь до последней версии в настройках.',
     'Release date': 'Дата выпуска',
@@ -8369,7 +8369,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Осторожно, использование внешних шрифотов может сломать разметку и вненший вид приложения!',
     'Enable equalizer': 'Поддержка сторонних эквалайзеров',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'Может помочь, если используется несистемный эквалайзер. Требуетсся перезапуск',
     'Visualizer': 'Визуализация',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -8389,8 +8389,8 @@ const crowdin = {
     'Genre': 'Жанр',
     'Contributors': 'Участники',
     'Album art': 'Обложка',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer недоступен в вашей стране, ReFreezer может работать неправильно. Пожалуйста, используйте VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer недоступен в вашей стране, AIMODeezer может работать неправильно. Пожалуйста, используйте VPN',
     'Deezer is unavailable': 'Deezer недоступен',
     'Continue': 'Продолжить',
     'Email Login': 'Email Логин',
@@ -8464,7 +8464,7 @@ const crowdin = {
         'Вы должны поддерживать своих любимых исполнителей, вместо этого приложения!',
     'No really, go support your favorite artists instead ;)':
         'Не, реально, вместо этого идите поддержите ваших любимых исполнителей ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
         "Для загрузки содержимого требуется разрешение на хранилище.\nОткройте настройки, и дайте разрешение на хранилище ReFeezer'у.",
     'Open system settings': 'Открыть настройки системы',
     'Application Log': 'Журнал приложения',
@@ -8650,7 +8650,7 @@ const crowdin = {
     'Go up': 'Ísť hore',
     'Permission denied': 'Prístup zamietnutý',
     'Language': 'Jazyk',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'Jazyk zmenený, pre použitie prosím reštartujte Freezer!',
     'Importing...': 'Importujem...',
     'Radio': 'Rádio',
@@ -8730,7 +8730,7 @@ const crowdin = {
     'New update available!': 'Je dostupná aktualizácia!',
     'Current version: ': 'Aktuálna verzia: ',
     'Unsupported platform!': 'Nepodporovaná platforma!',
-    'ReFreezer Updates': 'ReFreezer aktualizácie',
+    'AIMODeezer Updates': 'AIMODeezer aktualizácie',
     'Update to latest version in the settings.':
         'Aktualizujte na najnovšiu verziu v nastaveniach.',
     'Release date': 'Dátum vydania',
@@ -8765,7 +8765,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Táto aplikácia nie je určená na podporu viacerých typov písma, môžu poškodiť rozloženie a pretekať. Používajte na svoje vlastné riziko!',
     'Enable equalizer': 'Zapnúť ekvalizér',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'Možnosť fungovania niektorých aplikácií ekvalizéra. Vyžaduje sa reštart aplikácie',
     'Visualizer': 'Vizualizér',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -8781,8 +8781,8 @@ const crowdin = {
     'Genre': 'Žáner',
     'Contributors': 'Prispievatelia',
     'Album art': 'Obrázok albumu',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer nie je dostupný vo vašej krajine a tak, ReFreezer nemusí fungovať správne. Použite prosím VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer nie je dostupný vo vašej krajine a tak, AIMODeezer nemusí fungovať správne. Použite prosím VPN',
     'Deezer is unavailable': 'Deezer je nedostupný',
     'Continue': 'Pokračovať',
     'Email Login': 'Prihlásiť cez email',
@@ -9019,8 +9019,8 @@ const crowdin = {
     'Go up': 'Pojdi gor',
     'Permission denied': 'Dovoljenje zavrnjeno',
     'Language': 'Jezik',
-    'Language changed, please restart ReFreezer to apply!':
-        'Jezik zamenjan, prosimo ponovno zaženite ReFreezer za uveljavitev!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Jezik zamenjan, prosimo ponovno zaženite AIMODeezer za uveljavitev!',
     'Importing...': 'Uvažanje...',
     'Flow': 'Tok',
     'Track is not available on Deezer!': 'Posnetek ni na voljo pri Deezer-ju!',
@@ -9101,7 +9101,7 @@ const crowdin = {
     'New update available!': 'Na voljo je nova posodobitev!',
     'Current version: ': 'Trenutna različica: ',
     'Unsupported platform!': 'Nepodprta platforma!',
-    'ReFreezer Updates': 'ReFreezer posodobitve',
+    'AIMODeezer Updates': 'AIMODeezer posodobitve',
     'Update to latest version in the settings.':
         'Posodobite na najnovejšo verzijo v nastavitvah.',
     'Release date': 'Datum izdaje',
@@ -9137,8 +9137,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Ta aplikacija ni namenjena uporabi različnih pisav, saj lahko pokvarijo izgled in obliko besedila. Uporabljaj na lastno odgovornost!',
     'Enable equalizer': 'Omogoči izenačevalnik',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Morda omogoči podporo za nekatere izenačevalniške aplikacije. Zahteva ponovni zagon aplikacije ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Morda omogoči podporo za nekatere izenačevalniške aplikacije. Zahteva ponovni zagon aplikacije AIMODeezer',
     'Visualizer': 'Vizualizator',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Prikaži zvočni prikazovalnik na strani z besedilom. POZOR: Zahteva dovoljenje za mikrofon!',
@@ -9153,8 +9153,8 @@ const crowdin = {
     'Genre': 'Žanr',
     'Contributors': 'Sodelujoči',
     'Album art': 'Naslovnica albuma',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer ni na voljo v vaši državi, zato ReFreezer mogoče ne bo deloval. Prosimo uporabite VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer ni na voljo v vaši državi, zato AIMODeezer mogoče ne bo deloval. Prosimo uporabite VPN',
     'Deezer is unavailable': 'Deezer ni na voljo',
     'Continue': 'Nadaljuj',
     'Email Login': 'E-poštna prijava',
@@ -9434,7 +9434,7 @@ const crowdin = {
     'Go up': 'Yukarı git',
     'Permission denied': 'İzin reddedildi',
     'Language': 'Dil',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'Dil değişti,değişiklik için Freezeri yeniden başlatın!',
     'Importing...': 'İçe aktarılıyor...',
     'Radio': 'Radyo',
@@ -9519,7 +9519,7 @@ const crowdin = {
     'New update available!': 'Yeni güncelleme mevcut!',
     'Current version: ': 'Mevcut sürüm: ',
     'Unsupported platform!': 'Desteklenmeyen platform!',
-    'ReFreezer Updates': 'ReFreezer Güncellemeleri',
+    'AIMODeezer Updates': 'AIMODeezer Güncellemeleri',
     'Update to latest version in the settings.':
         'Ayarlarda en son sürüme kadar güncelleyebilirsiniz.',
     'Release date': 'Yayınlanma tarihi',
@@ -9556,8 +9556,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Bu uygulama birçok yazı tipini desteklemek için yapılmamıştır; düzenler bozulabilir ve taşabilir. Kullanım kendi sorumluluğunuzdadır!',
     'Enable equalizer': 'Ekolayzırı etkinleştir',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        "Bazı ekolayzır uygulamalarının çalışmasını sağlayabilir. ReFreezer'ın yeniden başlatılmasını gerektirir",
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        "Bazı ekolayzır uygulamalarının çalışmasını sağlayabilir. AIMODeezer'ın yeniden başlatılmasını gerektirir",
     'Visualizer': 'Görselleştirme',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Görselleştiricileri şarkı sözleri sayfasında gösterin. UYARI: Mikrofon izni gerektirir!',
@@ -9576,8 +9576,8 @@ const crowdin = {
     'Genre': 'Tür',
     'Contributors': 'Katkıda bulunanlar',
     'Album art': 'Albüm kapağı',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer ülkenizde mevcut değildir, ReFreezer düzgün çalışmayabilir. Lütfen bir VPN kullanın',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer ülkenizde mevcut değildir, AIMODeezer düzgün çalışmayabilir. Lütfen bir VPN kullanın',
     'Deezer is unavailable': 'Deezer kullanılamıyor',
     'Continue': 'Devam et',
     'Email Login': 'E-posta girişi',
@@ -9654,8 +9654,8 @@ const crowdin = {
         'Bu uygulama yerine sevdiğiniz sanatçıları desteklemelisiniz!',
     'No really, go support your favorite artists instead ;)':
         'Hayır, gerçekten, bunun yerine gidin ve en sevdiğiniz sanatçıları destekleyin ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        "İçeriği indirmek için depolama izni gereklidir.\nLütfen ayarları açın ve ReFreezer'a depolama izni verin.",
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        "İçeriği indirmek için depolama izni gereklidir.\nLütfen ayarları açın ve AIMODeezer'a depolama izni verin.",
     'Open system settings': 'Sistem ayarlarını açın',
     'Application Log': 'Uygulama Günlüğü',
     'Are you sure you want to log out?':
@@ -9845,8 +9845,8 @@ const crowdin = {
     'Go up': 'Вгору',
     'Permission denied': 'Доступ заборонено',
     'Language': 'Мова',
-    'Language changed, please restart ReFreezer to apply!':
-        'Мову змінено, будь ласка, перезапустіть ReFreezer для застосування!',
+    'Language changed, please restart AIMODeezer to apply!':
+        'Мову змінено, будь ласка, перезапустіть AIMODeezer для застосування!',
     'Importing...': 'Імпорт...',
     'Radio': 'Радіо',
     'Track is not available on Deezer!': 'Трек не доступний в Deezer!',
@@ -9927,7 +9927,7 @@ const crowdin = {
     'New update available!': 'Доступне оновлення!',
     'Current version: ': 'Поточна версія: ',
     'Unsupported platform!': 'Непідтримувана платформа!',
-    'ReFreezer Updates': 'Оновлення ReFreezer',
+    'AIMODeezer Updates': 'Оновлення AIMODeezer',
     'Update to latest version in the settings.':
         'Оновити до останньої версії в налаштуваннях.',
     'Release date': 'Дата релізу',
@@ -9962,8 +9962,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Обережно, використання зовнішніх шрифтів може зламати розмітку і зовнішній вигляд програми!',
     'Enable equalizer': 'Увімкнути еквалайзер',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Може допомогти, якщо використовується не системний еквалайзер. потрібен перезапуск ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Може допомогти, якщо використовується не системний еквалайзер. потрібен перезапуск AIMODeezer',
     'Visualizer': 'Візуалізація',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Відображати візуалізацію на на екрані тексту. Потрібен дозвіл \"Доступ до мікрофона\"!',
@@ -9981,8 +9981,8 @@ const crowdin = {
     'Genre': 'Жанр',
     'Contributors': 'Учасники',
     'Album art': 'Обкладинка',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer недоступний у вашій країні, ReFreezer може працювати некоректно. Будь ласка, використовуйте VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer недоступний у вашій країні, AIMODeezer може працювати некоректно. Будь ласка, використовуйте VPN',
     'Deezer is unavailable': 'Deezer недоступний',
     'Continue': 'Продовжити',
     'Email Login': 'Email Логін',
@@ -10229,8 +10229,8 @@ const crowdin = {
     'Go up': 'Gow up',
     'Permission denied': 'Pewmission denyied',
     'Language': "Wanguage (Don't change me >w<)",
-    'Language changed, please restart ReFreezer to apply!':
-        "Language changed, please restart ReFreezer to apply! (you changed me, nyow I'm gonnya k-kill youw famiwy uwu)",
+    'Language changed, please restart AIMODeezer to apply!':
+        "Language changed, please restart AIMODeezer to apply! (you changed me, nyow I'm gonnya k-kill youw famiwy uwu)",
     'Importing...': 'I-I-Impowting...',
     'Radio': 'Wadio',
     'Flow': 'Fwow',
@@ -10309,7 +10309,7 @@ const crowdin = {
     'New update available!': 'Nyew update avaiwabwe?!?! (Yayyyy uwu)',
     'Current version: ': 'Cuwwent version: ',
     'Unsupported platform!': 'Unsuppowted p-pwatfowm!? :<',
-    'ReFreezer Updates': 'WeFweezew Updates',
+    'AIMODeezer Updates': 'WeFweezew Updates',
     'Update to latest version in the settings.':
         'Update t-to watest vewsion in the settings.',
     'Release date': 'W-Wewease date',
@@ -10341,7 +10341,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         "This app isn't made for suppowting many fonts, it can bweak wayouts and ovewflow. Use at youw own wisk!",
     'Enable equalizer': 'Enable equawizew',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         'Migwt enable some equawizew apps to wowk. Wequiwes westawt of WeFweezer',
     'Visualizer': 'Visuawizew',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -10359,7 +10359,7 @@ const crowdin = {
     'Genre': 'Genwe',
     'Contributors': 'Contwibutows',
     'Album art': 'Awbum awt',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
         'Deezew iws unavaiwabwe in youw countwy, WeFweezew might nowt wowk pwopewwy. Pwease use a vpn',
     'Deezer is unavailable': 'Deezew iws unavaiwabwe',
     'Email Login': 'Emaiw wogin',
@@ -10409,7 +10409,7 @@ const crowdin = {
         'Uwu shouwd wathew suppowt youw favowite awtists, instead of thiws app!',
     'No really, go support your favorite artists instead ;)':
         'No weawwy, gow suppowt youw favowite awtists instead. Pwetty pwease? ;)',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
         'Stowage pewmission iws wequiwed tuwu downwoad content.\nPwease open settings awnd gwant stowage pewmission tuwu WeFweezew.',
     'Application Log': 'Appwication wog',
     'Are you sure you want to log out?': 'Awe uwu suwe uwu wawnt tuwu wog out?',
@@ -10597,7 +10597,7 @@ const crowdin = {
     'Go up': 'Về trước',
     'Permission denied': 'Quyền truy cập bị từ chối',
     'Language': 'Ngôn ngữ',
-    'Language changed, please restart ReFreezer to apply!':
+    'Language changed, please restart AIMODeezer to apply!':
         'Đã thay đổi ngôn ngữ, xin vui lòng khởi động lại Freezer!',
     'Importing...': 'Đang nhập...',
     'Track is not available on Deezer!': 'Bài hát không có sẵn trên Deezer!',
@@ -10676,7 +10676,7 @@ const crowdin = {
     'New update available!': 'Có bản cập nhật mới!',
     'Current version: ': 'Phiên bản hiện tại: ',
     'Unsupported platform!': 'Nền tảng không được hỗ trợ!',
-    'ReFreezer Updates': 'Cập nhật ReFreezer',
+    'AIMODeezer Updates': 'Cập nhật AIMODeezer',
     'Update to latest version in the settings.':
         'Cập nhật phiên bản mới nhất trong cài đặt.',
     'Release date': 'Ngày phát hành',
@@ -10712,8 +10712,8 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         'Ứng dụng này không hỗ trợ nhiều phông chữ, bố cục và ký tự có thể sẽ lỗi và bị tràn. Tùy bạn quyết định!',
     'Enable equalizer': 'Bật bộ chỉnh âm',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
-        'Có thể cho phép sử dụng ứng dụng chỉnh âm. Yêu cầu khởi động lại ReFreezer',
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
+        'Có thể cho phép sử dụng ứng dụng chỉnh âm. Yêu cầu khởi động lại AIMODeezer',
     'Visualizer': 'Trình trực quan',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
         'Hiển thị trình trực quan trên trang lời bài hát. CẢNH BÁO: Yêu cầu quyền sử dụng micrô!',
@@ -10728,8 +10728,8 @@ const crowdin = {
     'Genre': 'Thể loại',
     'Contributors': 'Người đóng góp',
     'Album art': 'Ảnh album',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer không khả dụng ở quốc gia của bạn, ReFreezer có thể sẽ không hoạt động như bình thường. Vui lòng sử dụng VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer không khả dụng ở quốc gia của bạn, AIMODeezer có thể sẽ không hoạt động như bình thường. Vui lòng sử dụng VPN',
     'Deezer is unavailable': 'Deezer không khả dụng',
     'Continue': 'Tiếp tục',
     'Email Login': 'Đăng nhập qua email',
@@ -10957,7 +10957,7 @@ const crowdin = {
     'Go up': '向上一级',
     'Permission denied': '获取权限失败',
     'Language': '语言',
-    'Language changed, please restart ReFreezer to apply!': '语言已更改，请重启生效',
+    'Language changed, please restart AIMODeezer to apply!': '语言已更改，请重启生效',
     'Importing...': '正在导入中',
     'Radio': '电台',
     'Flow': 'Flow',
@@ -11034,7 +11034,7 @@ const crowdin = {
     'New update available!': '检测到新版本',
     'Current version: ': '当前版本：',
     'Unsupported platform!': '不支持的平台',
-    'ReFreezer Updates': 'ReFreezer 更新',
+    'AIMODeezer Updates': 'AIMODeezer 更新',
     'Update to latest version in the settings.': '在设置中更新到最新版本',
     'Release date': '发布日期',
     'Shows': '播客',
@@ -11068,7 +11068,7 @@ const crowdin = {
     "This app isn't made for supporting many fonts, it can break layouts and overflow. Use at your own risk!":
         '不兼容所有字体，可能会扰乱布局或溢出界面，请谨慎使用',
     'Enable equalizer': '启用均衡器',
-    'Might enable some equalizer apps to work. Requires restart of ReFreezer':
+    'Might enable some equalizer apps to work. Requires restart of AIMODeezer':
         '可以调用某些均衡器软件，需要重启生效',
     'Visualizer': '音乐可视化',
     'Show visualizers on lyrics page. WARNING: Requires microphone permission!':
@@ -11088,8 +11088,8 @@ const crowdin = {
     'Genre': '乐种',
     'Contributors': '贡献者',
     'Album art': '专辑封面',
-    'Deezer is unavailable in your country, ReFreezer might not work properly. Please use a VPN':
-        'Deezer 在您所在的國家/地區不可用，ReFreezer 可能無法正常運作。請使用VPN',
+    'Deezer is unavailable in your country, AIMODeezer might not work properly. Please use a VPN':
+        'Deezer 在您所在的國家/地區不可用，AIMODeezer 可能無法正常運作。請使用VPN',
     'Deezer is unavailable': 'Deezer 不可用',
     'Continue': '繼續',
     'Email Login': '信箱登入',
@@ -11162,8 +11162,8 @@ const crowdin = {
         '你應該支持你最喜歡的藝術家，而不是這個應用程式！',
     'No really, go support your favorite artists instead ;)':
         '不，真的，去支持你最喜歡的藝術家吧；）',
-    'Storage permission is required to download content.\nPlease open settings and grant storage permission to ReFreezer.':
-        '下載內容需要儲存權限。\n請開啟設定並授予 ReFreezer 儲存權限。',
+    'Storage permission is required to download content.\nPlease open settings and grant storage permission to AIMODeezer.':
+        '下載內容需要儲存權限。\n請開啟設定並授予 AIMODeezer 儲存權限。',
     'Open system settings': '開啟系統設定',
     'Application Log': '應用程式日誌',
     'Are you sure you want to log out?': '您確定要退出嗎？',

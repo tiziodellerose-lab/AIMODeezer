@@ -1,13 +1,13 @@
-![ReFreezer](./assets/banner.png?raw=true)
+![AIMODeezer](./assets/banner.png?raw=true)
 
-[![Latest Version](https://img.shields.io/github/v/release/DJDoubleD/ReFreezer?color=blue)](../../releases/latest)
-[![Release date](https://img.shields.io/github/release-date/DJDoubleD/ReFreezer)](../../releases/latest)
-[![Downloads Latest](https://img.shields.io/github/downloads/DJDoubleD/ReFreezer/latest/total?color=blue&label=downloads%20latest)](../../releases)
-[![Downloads Total](https://img.shields.io/github/downloads/DJDoubleD/ReFreezer/total?color=blue&label=downloads%20total)](../../releases)
+[![Latest Version](https://img.shields.io/github/v/release/tiziodellerose-lab/AIMODeezer?color=blue)](../../releases/latest)
+[![Release date](https://img.shields.io/github/release-date/tiziodellerose-lab/AIMODeezer)](../../releases/latest)
+[![Downloads Latest](https://img.shields.io/github/downloads/tiziodellerose-lab/AIMODeezer/latest/total?color=blue&label=downloads%20latest)](../../releases)
+[![Downloads Total](https://img.shields.io/github/downloads/tiziodellerose-lab/AIMODeezer/total?color=blue&label=downloads%20total)](../../releases)
 [![Flutter Version](https://shields.io/badge/Flutter-v3.32.2-darkgreen.svg)](https://docs.flutter.dev/tools/sdk)
 [![Dart Version](https://shields.io/badge/Dart-v3.8.1-darkgreen.svg)](https://dart.dev/get-dart)
 [![Crowdin](https://badges.crowdin.net/refreezer/localized.svg)](https://crowdin.com/project/refreezer)
-[![License](https://img.shields.io/github/license/DJDoubleD/ReFreezer?flat)](./LICENSE)
+[![License](https://img.shields.io/github/license/tiziodellerose-lab/AIMODeezer?flat)](./LICENSE)
 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -74,7 +74,7 @@ Install the latest flutter SDK: <https://flutter.dev/docs/get-started/install>
 Download source:
 
 ```powershell
-git clone https://github.com/DJDoubleD/ReFreezer
+git clone https://github.com/tiziodellerose-lab/AIMODeezer
 git submodule init
 git submodule update
 ```
@@ -140,14 +140,14 @@ storeFile=../keys.jks
 
 ## Disclaimer & Legal
 
-**ReFreezer** was not developed for piracy, but educational and private usage.
+**AIMODeezer** was not developed for piracy, but educational and private usage.
 It may be illegal to use this in your country!
-I will not be responsible for how you use **ReFreezer**.
+I will not be responsible for how you use **AIMODeezer**.
 
-**ReFreezer** uses both Deezer's public and internal API's, but is not endorsed, certified or otherwise approved in any way by Deezer.
+**AIMODeezer** uses both Deezer's public and internal API's, but is not endorsed, certified or otherwise approved in any way by Deezer.
 
 The Deezer brand and name is the registered trademark of its respective owner.
 
-**ReFreezer** has no partnership, sponsorship or endorsement with Deezer.
+**AIMODeezer** has no partnership, sponsorship or endorsement with Deezer.
 
-By using **ReFreezer** you agree to the following: <https://www.deezer.com/legal/cgu>
+By using **AIMODeezer** you agree to the following: <https://www.deezer.com/legal/cgu>
