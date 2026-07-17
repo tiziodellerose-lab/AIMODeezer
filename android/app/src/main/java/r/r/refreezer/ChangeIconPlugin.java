@@ -1,4 +1,4 @@
-package r.r.refreezer;
+package AIMODeezer;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -87,9 +87,9 @@ public class ChangeIconPlugin {
         private ComponentName componentName;
 
         static {
-            activityMap.put("DefaultIcon", "r.r.refreezer.DefaultIconActivity");
-            activityMap.put("CatIcon", "r.r.refreezer.CatIconActivity");
-            activityMap.put("DeezerBlueIcon", "r.r.refreezer.DeezerBlueIconActivity");
+            activityMap.put("DefaultIcon", "AIMODeezer.DefaultIconActivity");
+            activityMap.put("CatIcon", "AIMODeezer.CatIconActivity");
+            activityMap.put("DeezerBlueIcon", "AIMODeezer.DeezerBlueIconActivity");
         }
 
         LauncherIcon(String key) {
