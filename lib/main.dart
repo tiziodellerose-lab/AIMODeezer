@@ -46,24 +46,24 @@ void main() async {
 
   await prepareRun();
 
-  runApp(const Restartable(child: ReFreezerApp()));
+  runApp(const Restartable(child: AIMODeezerApp()));
 }
 
 Future<void> prepareRun() async {
   await initializeLogging();
-  Logger.root.info('Starting ReFreezer App...');
+  Logger.root.info('Starting AIMODeezer App...');
   settings = await Settings().loadSettings();
   cache = await Cache.load();
 }
 
-class ReFreezerApp extends StatefulWidget {
-  const ReFreezerApp({super.key});
+class AIMODeezerApp extends StatefulWidget {
+  const AIMODeezerApp({super.key});
 
   @override
-  _ReFreezerAppState createState() => _ReFreezerAppState();
+  _AIMODeezerAppState createState() => _AIMODeezerAppState();
 }
 
-class _ReFreezerAppState extends State<ReFreezerApp> {
+class _AIMODeezerAppState extends State<AIMODeezerApp> {
   @override
   void initState() {
     //Make update theme global
@@ -244,7 +244,7 @@ class _MainScreenState extends State<MainScreen>
 
     //Check for updates on background
     Future.delayed(const Duration(seconds: 5), () {
-      ReFreezerLatest.checkUpdate();
+      AIMODeezerLatest.checkUpdate();
     });
 
     //Restore saved queue
