@@ -1,4 +1,4 @@
-package r.r.refreezer;
+package AIMODeezer;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
