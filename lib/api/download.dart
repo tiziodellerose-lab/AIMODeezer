@@ -172,7 +172,7 @@ class DownloadManager {
         return AlertDialog(
           title: Text('Storage Permission Required'.i18n),
           content: Text(
-              'Storage permission is required to download content.\nPlease open system settings and grant storage permission to AIMODeezer.'
+              'Storage permission is required to download content.\nPlease open system settings and grant storage permission to ReFreezer.'
                   .i18n),
           actions: <Widget>[
             TextButton(

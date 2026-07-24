@@ -88,7 +88,7 @@ class FreezerTitle extends StatelessWidget {
             children: <Widget>[
               Image.asset('assets/icon.png', width: 64, height: 64),
               const Text(
-                'AIMODeezer',
+                'ReFreezer',
                 style: TextStyle(fontSize: 56, fontWeight: FontWeight.w900),
               )
             ],

@@ -12,7 +12,7 @@ import 'package:logging/logging.dart';
 import 'package:move_to_background/move_to_background.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:quick_actions/quick_actions.dart';
-import 'package:refreezer/ui/restartable.dart';
+import 'package:aimodeezer/ui/restartable.dart';
 //import 'package:restart_app/restart_app.dart';
 
 import 'api/cache.dart';
@@ -46,24 +46,24 @@ void main() async {
 
   await prepareRun();
 
-  runApp(const Restartable(child: AIMODeezerApp()));
+  runApp(const Restartable(child: ReFreezerApp()));
 }
 
 Future<void> prepareRun() async {
   await initializeLogging();
-  Logger.root.info('Starting AIMODeezer App...');
+  Logger.root.info('Starting ReFreezer App...');
   settings = await Settings().loadSettings();
   cache = await Cache.load();
 }
 
-class AIMODeezerApp extends StatefulWidget {
-  const AIMODeezerApp({super.key});
+class ReFreezerApp extends StatefulWidget {
+  const ReFreezerApp({super.key});
 
   @override
-  _AIMODeezerAppState createState() => _AIMODeezerAppState();
+  _ReFreezerAppState createState() => _ReFreezerAppState();
 }
 
-class _AIMODeezerAppState extends State<AIMODeezerApp> {
+class _ReFreezerAppState extends State<ReFreezerApp> {
   @override
   void initState() {
     //Make update theme global
@@ -97,7 +97,7 @@ class _AIMODeezerAppState extends State<AIMODeezerApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AIMODeezer',
+      title: 'ReFreezer',
       shortcuts: <ShortcutActivator, Intent>{
         ...WidgetsApp.defaultShortcuts,
         LogicalKeySet(LogicalKeyboardKey.select):
@@ -244,7 +244,7 @@ class _MainScreenState extends State<MainScreen>
 
     //Check for updates on background
     Future.delayed(const Duration(seconds: 5), () {
-      AIMODeezerLatest.checkUpdate();
+      ReFreezerLatest.checkUpdate();
     });
 
     //Restore saved queue
